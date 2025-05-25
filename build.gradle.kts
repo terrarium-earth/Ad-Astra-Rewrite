@@ -10,7 +10,6 @@ version = "2.0.0"
 
 repositories {
   cloche {
-    main()
     librariesMinecraft()
     mavenNeoforgedMeta()
     mavenNeoforged()
