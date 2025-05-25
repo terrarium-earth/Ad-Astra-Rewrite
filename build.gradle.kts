@@ -12,6 +12,7 @@ repositories {
   cloche {
     main()
     librariesMinecraft()
+    mavenNeoforgedMeta()
     mavenNeoforged()
   }
 }
@@ -38,7 +39,7 @@ cloche {
       runs {
         server()
         client()
-        data()
+        clientData()
         test()
       }
     }
