@@ -1,3 +1,5 @@
+package earth.terrarium.adastra
+
 import net.neoforged.bus.api.IEventBus
 import net.neoforged.fml.common.Mod
 

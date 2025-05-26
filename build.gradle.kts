@@ -4,10 +4,6 @@ plugins {
   id("earth.terrarium.cloche") version "0.9.17"
 }
 
-group = "earth.terrarium.adastra"
-
-version = "2.0.0"
-
 repositories {
   cloche {
     librariesMinecraft()
